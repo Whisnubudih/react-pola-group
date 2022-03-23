@@ -1,0 +1,7 @@
+export const ITEM_FETCH_SUCCESS = "items/fetchSuccess"
+export const ITEMID_FETCH_SUCCESS = "itemsid/fetchSuccess"
+export const ITEMID_DELETE_SUCCESS = "itemsid/deleteSuccess"
+export const CATEGORY_FETCH_SUCCESS = "category/fetchSuccess"
+export const CATEGORY_DELETE_SUCCESS = "category/deleteSuccess"
+export const SET_LOADING = "loading/success"
+export const SET_ERROR = "error/success"
